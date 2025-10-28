@@ -1,11 +1,3 @@
-/dispatches
-  └── 2025-10-28.md
-/assets
-  └── merch/
-      └── resistance-dog.jpg
-/automation
-  └── buffer-sync.yml
-README.md
 
 # Macrobyte Ops: Squadron Dispatch Grid
 
